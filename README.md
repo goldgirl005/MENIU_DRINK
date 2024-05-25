@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="eng">
+    <head>
+        <title> Meniu Drink Dealers</title>
+    </head>
+    <body>
+       <img src="interfata.png" width="900">
+    </body>
+    <body>
+        <div> 
+            <title> Cocktails</title>
+        </div> 
+    </body>
+    <body>
+       <video src="Aperol Spritz.mp4" width="900" controls autoplay loop>
+        <source src="Aperol Spritz.mp4" type="video/mp4">
+       </video>
+    </body>
+    <body>
+        <video src="Blue Lagoon.mp4" width="900" controls autoplay loop>
+            <source src="Blue Lagoon.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="Cuba Libre.mp4" width="900" controls autoplay loop>
+            <source src="Cuba Libre.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="Dealers Drink.mp4" width="900" controls autoplay loop>
+            <source src="Dealers Drink.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="Gin Bull.mp4" width="900" controls autoplay loop>
+            <source src="Gin Bull.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="Gin Tonic.mp4" width="900" controls autoplay loop>
+            <source src="Gin Tonic.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="Hugo.mp4" width="900" controls autoplay loop>
+            <source src="Hugo.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="Jagerbomb.mp4" width="900" controls autoplay loop>
+            <source src="Jagerbomb.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="Mimosa.mp4" width="900" controls autoplay loop>
+            <source src="Mimosa.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="Mojito (2).mp4" width="900" controls autoplay loop>
+            <source src="Mojito (2).mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="red vodka.mp4" width="900" controls autoplay loop>
+            <source src="red vodka.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="Sex on the beach.mp4" width="900" controls autoplay loop>
+            <source src="Sex on the beach.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="Vodka Bull.mp4" width="900" controls autoplay loop>
+            <source src="Vodka Bull.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="Whiskey cola.mp4" width="900" controls autoplay loop>
+            <source src="Whiskey cola.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <div> 
+            <title> Non Alchoolics</title>
+        </div> 
+    </body>
+    <body>
+        <video src="Green Energy.mp4" width="900" controls autoplay loop>
+            <source src="Green Energy.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="Green lady.mp4" width="900" controls autoplay loop>
+            <source src="Green lady.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="Sex on the beach NA.mp4" width="900" controls autoplay loop>
+            <source src="Sex on the beach NA.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="True passion.mp4" width="900" controls autoplay loop>
+            <source src="True passion.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+        <video src="Virgin mojito.mp4" width="900" controls autoplay loop>
+            <source src="Virgin mojito.mp4" type="video/mp4">
+        </video>
+    </body>
+    <body>
+            <div> 
+                <title> Shots</title>
+            </div> 
+    </body>
+    <body>
+        <video src="Shots.mp4" width="900" controls autoplay loop>
+            <source src="Shots.mp4" type="video/mp4">
+        </video>
+    </body>
+</html>
